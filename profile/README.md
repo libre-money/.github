@@ -61,6 +61,7 @@ An Engineering Lead and Systems Architect with deep roots in fintech and health-
 ### Taufiq Ahmed
 
 **Principal Engineer & UX Specialist**
+Has 15 years of experience building fast and efficient web applications across ecommerce, fintech, and healthcare. Passionate about performance, clean code, and human-centric design.
 
 **TODO**
 
