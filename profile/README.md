@@ -63,10 +63,12 @@ An Engineering Lead and Systems Architect with deep roots in fintech and health-
 **Principal Engineer & UX Specialist**
 Has 15 years of experience building fast and efficient web applications across ecommerce, fintech, and healthcare. Passionate about performance, clean code, and human-centric design.
 
+Contact: [https://github.com/taufiqahmed](https://github.com/taufiqahmed)
 
 ### Mysha R. Azfar 
 **Product Owner**
 A Certified Professional Scrum Product Owner (PSPO-I) with a track record of modernizing industrial-scale business systems. Mysha leads the product strategy for Libre Money, ensuring that our comprehensive financial and accounting features translate into an intuitive and accessible user experience.
+
 Contact: [azfarmysha.com](https://azfarmysha.com/) | [LinkedIn](https://www.linkedin.com/in/myshaazfar/)
 
 ---
@@ -84,9 +86,9 @@ We believe in community-driven development. Whether you are a developer, a finan
 
 ### 🔗 Useful Links
 
-* 📦 **Repository:** [libre-money-webapp](https://github.com/iShafayet/libre-money-webapp)
+* 📦 **Core Repository:** [libre-money-webapp](https://github.com/iShafayet/libre-money-webapp)
 * 📄 **License:** GNU General Public License v3.0
-* 📧 **Contact:** [ishafayet.me](https://ishafayet.me)
+* 📧 **Contact:** [libre.money.support@proton.me](mailto:libre.money.support@proton.me)
 
 ---
 
