@@ -63,7 +63,7 @@ An Engineering Lead and Systems Architect with deep roots in fintech and health-
 **Principal Engineer & UX Specialist**
 Has 15 years of experience building fast and efficient web applications across ecommerce, fintech, and healthcare. Passionate about performance, clean code, and human-centric design.
 
-Contact: [https://github.com/taufiqahmed](https://github.com/taufiqahmed)
+Contact: [Github](https://github.com/taufiqahmed) 
 
 ### Mysha R. Azfar 
 **Product Owner**
